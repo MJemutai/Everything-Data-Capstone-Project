@@ -10,7 +10,7 @@ Objectives:
   - Determine profits by country, segment and product line
 
 2. PAIR PROJECT
-Title: Data Jobs in Kenya
+Title: Analysis of Data Jobs in Kenya
 
 Data source: Phoenix Analytics
 Steps Taken: Data cleaning using Excel and visualizations using PowerBI
